@@ -1,91 +1,180 @@
-<p align="center">
-  <img src="https://via.placeholder.com/150x150?text=Silas+Moracha" alt="Silas Moracha Logo" width="100" />
-</p>
 
-<h1 align="center">👋 Silas Moracha (@mcmnyages) — Developer Portfolio</h1>
+  
 
-<p align="center">
-  <a href="https://github.com/mcmnyages"><img src="https://img.shields.io/badge/GitHub-mcmnyages-blue?logo=github" alt="GitHub"></a>
-  <a href="https://mcmnyages.github.io/silas_moracha.io/"><img src="https://img.shields.io/badge/Portfolio-silas--moracha.io-brightgreen" alt="Portfolio"></a>
-  <a href="https://github.com/mcmnyages?tab=repositories"><img src="https://img.shields.io/github/stars/mcmnyages?style=social" alt="GitHub Stars"></a>
-</p>
 
-<p align="center">
-  Welcome to my coding universe! I'm <strong>Silas Moracha</strong>, a developer passionate about <strong>Android</strong>, <strong>React</strong>, <strong>React Native</strong>, and <strong>MySQL</strong>. This repo is your gateway to my projects, from mobile apps to database exercises. Explore my work below or visit my <a href="https://mcmnyages.github.io/silas_moracha.io/">portfolio site</a>! 🚀
-</p>
+👋 Silas Moracha (@mcmnyages) — Developer & Cybersecurity Enthusiast
 
----
 
-## 📑 Table of Contents
-- [Quick Links](#-quick-links)
-- [Featured Projects](#-featured-projects)
-- [Tech Stack](#-tech-stack)
-- [Quick Start Guides](#-quick-start-guides)
-- [Repository Structure](#-repository-structure)
-- [Contributing](#-contributing)
-- [Security & Secrets](#-security--secrets)
-- [Get in Touch](#-get-in-touch)
-- [License](#-license)
-- [Next Steps](#-next-steps)
+  
+  
+  
+  
+  
 
----
 
-## 🔗 Quick Links
-- 🌐 **Portfolio**: [silas-moracha.io](https://mcmnyages.github.io/silas_moracha.io/)  
-- 🐙 **GitHub**: [github.com/mcmnyages](https://github.com/mcmnyages)  
-- 📧 **Email**: [Add your email or contact form link]  
 
-> 💡 **Tip**: Check out my [portfolio site](https://mcmnyages.github.io/silas_moracha.io/) for a visual showcase of my work!
+  Hey there! I'm Silas Moracha (aka McMnyages), a soon-to-be IT graduate from Maseno University with a passion for cybersecurity and cutting-edge tech. This repo is your gateway to my projects—Android apps, React/React Native apps, SQL exercises, and more. Explore below or visit my portfolio site to see my work in action! 🚀
 
----
 
-## 🌟 Featured Projects
-Dive into my top repositories, each with detailed READMEs and setup guides:
 
-| **Project** | **Description** | **Tech** |
-|-------------|-----------------|----------|
-| **[WORLD_MySQL](https://github.com/mcmnyages/WORLD_MySQL)** 🗄️ | MySQL schemas, sample data, and SQL exercises for database mastery. | MySQL, SQL |
-| **[CIT-415-Year-4](https://github.com/mcmnyages/CIT-415-Year-4)** 📚 | Year 4 coursework showcasing academic projects. | Various |
-| **[Android_Studio_Projects](https://github.com/mcmnyages/Android_Studio_Projects)** 📱 | Android apps built with Java and Kotlin. | Java, Kotlin, Android Studio |
-| **[Classwork](https://github.com/mcmnyages/classwork)** ✏️ | Assignments, demos, and coding exercises. | Various |
-| **React & React Native Apps** (WIP) ⚛️ | Upcoming mobile and web apps—stay tuned! | React, React Native, Expo |
+💫 About Me
+Hi! I'm Silas Moracha, but you can call me McMnyages. I'm an aspiring IT professional with a deep interest in cybersecurity and software development. Currently, I'm awaiting graduation from Maseno University and diving into new technologies while preparing for professional certifications to make the digital world safer.
 
----
+🎓 Education: Bachelor's in Information Technology, Maseno University (Graduating 2025)
+🔒 Focus: Cybersecurity enthusiast
+🌱 Currently: Exploring new tools, frameworks, and prepping for certifications
+🚀 Goals: Contribute to the cybersecurity community and build secure, innovative solutions
 
-## 🛠️ Tech Stack
-Here’s what powers my projects:
 
-| **Category**       | **Technologies**                              |
-|---------------------|-----------------------------------------------|
-| **Frontend**       | ⚛️ React, React Native, Expo                |
-| **Mobile**         | 📱 Android (Java, Kotlin), Android Studio, Gradle |
-| **Backend/Tools**  | 🌐 Node.js, Express                         |
-| **Database**       | 🗄️ MySQL                                   |
-| **Languages**      | 💻 Java, Kotlin, JavaScript (ES6+), SQL     |
+📑 Table of Contents
 
----
+About Me
+Socials
+Tech Stack
+Featured Projects
+Quick Start Guides
+Repository Structure
+Contributing
+Security & Secrets
+GitHub Stats
+Get in Touch
+License
+Next Steps
 
-## 🚀 Quick Start Guides
+
+🌐 Socials
+Connect with me on:
+
+
+
+
+
+💻 Tech Stack
+Here’s the arsenal I use to build and secure my projects:
+
+
+🌟 Featured Projects
+Explore my key repositories, each with detailed READMEs and setup guides:
+
+
+
+Project
+Description
+Tech
+
+
+
+WORLD_MySQL 🗄️
+MySQL schemas, sample data, and SQL exercises for database mastery.
+MySQL, SQL
+
+
+CIT-415-Year-4 📚
+Year 4 coursework showcasing academic projects.
+Various
+
+
+Android_Studio_Projects 📱
+Android apps built with Java and Kotlin.
+Java, Kotlin, Android Studio
+
+
+Classwork ✏️
+Assignments, demos, and coding exercises.
+Various
+
+
+React & React Native Apps (WIP) ⚛️
+Upcoming mobile and web apps—stay tuned!
+React, React Native, Expo
+
+
+
+🚀 Quick Start Guides
 Get my projects running in no time:
+🌐 Web (React)
 
-### 🌐 Web (React)
-- **Prerequisites**: Node.js ≥ 16, npm/yarn  
-- **Install**: `npm install`  
-- **Run**: `npm run start`  
-- **Build**: `npm run build`
+Prerequisites: Node.js ≥ 16, npm/yarn  
+Install: npm install  
+Run: npm run start  
+Build: npm run build
 
-### 📱 Mobile (React Native / Expo)
-- **Prerequisites**: Node.js, npm/yarn, Expo CLI (for Expo), or Android/iOS toolchains  
-- **Install**: `npm install`  
-- **Run (Expo)**: `expo start`  
-- **Run (Android Native)**: `cd android && ./gradlew assembleDebug`
+📱 Mobile (React Native / Expo)
 
-### 🤖 Android Studio Projects
-- Open in **Android Studio**  
-- Ensure **SDKs** and **JDK** are installed  
-- Build/Run via IDE or: `cd android && ./gradlew assembleDebug`
+Prerequisites: Node.js, npm/yarn, Expo CLI (for Expo), or Android/iOS toolchains  
+Install: npm install  
+Run (Expo): expo start  
+Run (Android Native): cd android && ./gradlew assembleDebug
 
-### 🗄️ SQL / MySQL
-- Import schema:  
-  ```bash
-  mysql -u <user> -p <database> < schema.sql
+🤖 Android Studio Projects
+
+Open in Android Studio  
+Ensure SDKs and JDK are installed  
+Build/Run via IDE or: cd android && ./gradlew assembleDebug
+
+🗄️ SQL / MySQL
+
+Import schema:  mysql -u <user> -p <database> < schema.sql
+
+
+Use sample data only; never commit production secrets.
+
+
+📂 Repository Structure
+My projects follow this clean layout:
+
+README.md: Project overview  
+CONTRIBUTING.md: Contribution guidelines  
+.gitignore: Ignores for Node, Android, etc.  
+.github/workflows/: CI/CD pipelines (optional)  
+docs/: Screenshots, API notes, and docs  
+sql/: Database schemas and seeds  
+android/: Android Studio project files  
+src/ or app/: Frontend/mobile source code
+
+
+🤝 Contributing
+Want to collaborate? Here’s how:
+
+Branching: feature/<short-name> or fix/<short-name>  
+Commits: Use imperative tense (e.g., "Add login button")  
+Pull Requests: Target main (or develop), include description and testing steps  
+Tests & Linting: Add tests where possible; keep lint rules passing
+
+
+🔒 Security & Secrets
+
+🚫 Never commit .env, API keys, or keystores.  
+🔐 Use GitHub Secrets for CI/CD and encrypted storage for signing keys.
+
+
+📊 GitHub Stats
+See my coding journey in action:
+
+
+
+
+
+📬 Get in Touch
+Let’s connect! Reach out via:
+
+🌐 Portfolio: silas-moracha.io  
+🐙 GitHub: github.com/mcmnyages  
+📧 Email: [Add your email or contact form link]  
+🔗 LinkedIn: linkedin.com/in/mcmnyages  
+📸 Instagram: instagram.com/mcmnyages
+
+
+📜 License
+This project is licensed under the MIT License. Add a LICENSE file to your repo for clarity.
+
+🛠️ Next Steps
+To level up this repo:
+
+📸 Add screenshots or GIFs in each project’s README.  
+📝 Create CONTRIBUTING.md and .gitignore for consistency.  
+🤖 Set up GitHub Actions for automated builds and checks.
+
+
+
+  Built with 💻, 🔒, and ☕ by Silas Moracha. Let’s make the digital world safer and more awesome! 🚀

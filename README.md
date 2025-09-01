@@ -1,86 +1,91 @@
-```md
-# Silas Moracha (mcmnyages) — Portfolio & Projects
+<p align="center">
+  <img src="https://via.placeholder.com/150x150?text=Silas+Moracha" alt="Silas Moracha Logo" width="100" />
+</p>
 
-Welcome — I’m Silas (GitHub: @mcmnyages). This repository is the central index for my work: academic projects, Android apps, SQL exercises, and an evolving collection of React and React Native apps. For a visual portfolio and contact info, visit my site: https://mcmnyages.github.io/silas_moracha.io/
+<h1 align="center">👋 Silas Moracha (@mcmnyages) — Developer Portfolio</h1>
 
-Quick links
-- Portfolio (GitHub Pages): https://mcmnyages.github.io/silas_moracha.io/
-- GitHub: https://github.com/mcmnyages
+<p align="center">
+  <a href="https://github.com/mcmnyages"><img src="https://img.shields.io/badge/GitHub-mcmnyages-blue?logo=github" alt="GitHub"></a>
+  <a href="https://mcmnyages.github.io/silas_moracha.io/"><img src="https://img.shields.io/badge/Portfolio-silas--moracha.io-brightgreen" alt="Portfolio"></a>
+  <a href="https://github.com/mcmnyages?tab=repositories"><img src="https://img.shields.io/github/stars/mcmnyages?style=social" alt="GitHub Stars"></a>
+</p>
 
-Featured repositories
-- mcmnyages/WORLD_MySQL — MySQL schemas, sample data and SQL exercises
-- mcmnyages/CIT-415-Year-4 — Year 4 course projects and coursework
-- mcmnyages/Android_Studio_Projects — Android Studio sample apps (Java/Kotlin)
-- mcmnyages/classwork — Class assignments, small demos and exercises
-- (Upcoming) React and React Native apps — mobile & web projects in progress
+<p align="center">
+  Welcome to my coding universe! I'm <strong>Silas Moracha</strong>, a developer passionate about <strong>Android</strong>, <strong>React</strong>, <strong>React Native</strong>, and <strong>MySQL</strong>. This repo is your gateway to my projects, from mobile apps to database exercises. Explore my work below or visit my <a href="https://mcmnyages.github.io/silas_moracha.io/">portfolio site</a>! 🚀
+</p>
 
-About this repo
-This repository serves as a landing README that helps visitors quickly understand my work and find the right project. Each project contains its own README with project-specific details, run instructions, and screenshots where applicable.
+---
 
-Tech snapshot
-- Frontend: React, React Native, Expo
-- Mobile: Android (Java / Kotlin), Android Studio, Gradle
-- Backend / Tools: Node.js, Express (when applicable)
-- Database: MySQL
-- Languages: Java, Kotlin, JavaScript (ES6+), SQL
+## 📑 Table of Contents
+- [Quick Links](#-quick-links)
+- [Featured Projects](#-featured-projects)
+- [Tech Stack](#-tech-stack)
+- [Quick Start Guides](#-quick-start-guides)
+- [Repository Structure](#-repository-structure)
+- [Contributing](#-contributing)
+- [Security & Secrets](#-security--secrets)
+- [Get in Touch](#-get-in-touch)
+- [License](#-license)
+- [Next Steps](#-next-steps)
 
-Common quick start (by project type)
+---
 
-- Web (React)
-  - Prereqs: Node >= 16, npm or yarn
-  - Install: npm install
-  - Dev: npm run start
-  - Build: npm run build
+## 🔗 Quick Links
+- 🌐 **Portfolio**: [silas-moracha.io](https://mcmnyages.github.io/silas_moracha.io/)  
+- 🐙 **GitHub**: [github.com/mcmnyages](https://github.com/mcmnyages)  
+- 📧 **Email**: [Add your email or contact form link]  
 
-- Mobile (React Native / Expo)
-  - Prereqs: Node, npm/yarn, Expo CLI (if using Expo), or native toolchains for Android/iOS
-  - Install: npm install
-  - Run (Expo): expo start
-  - Run (Android native): cd android && ./gradlew assembleDebug
+> 💡 **Tip**: Check out my [portfolio site](https://mcmnyages.github.io/silas_moracha.io/) for a visual showcase of my work!
 
-- Android Studio projects
-  - Open the project in Android Studio
-  - Ensure required SDKs and a JDK are installed
-  - Build/Run using the IDE or ./gradlew assembleDebug from the android directory
+---
 
-- SQL / MySQL
-  - Import a schema or dump:
-    mysql -u <user> -p <database> < schema.sql
-  - Use sample data only; never commit production secrets.
+## 🌟 Featured Projects
+Dive into my top repositories, each with detailed READMEs and setup guides:
 
-Repository layout suggestions
-- README.md — Project overview (this file)
-- CONTRIBUTING.md — Contribution rules & PR guidance
-- .gitignore — Node / Android / general ignores
-- .github/workflows/ — CI definitions (optional)
-- docs/ — Additional docs, screenshots, API notes
-- sql/ — Database schema and seeds
-- android/ — Android Studio project files
-- src/ or app/ — Frontend / mobile source
+| **Project** | **Description** | **Tech** |
+|-------------|-----------------|----------|
+| **[WORLD_MySQL](https://github.com/mcmnyages/WORLD_MySQL)** 🗄️ | MySQL schemas, sample data, and SQL exercises for database mastery. | MySQL, SQL |
+| **[CIT-415-Year-4](https://github.com/mcmnyages/CIT-415-Year-4)** 📚 | Year 4 coursework showcasing academic projects. | Various |
+| **[Android_Studio_Projects](https://github.com/mcmnyages/Android_Studio_Projects)** 📱 | Android apps built with Java and Kotlin. | Java, Kotlin, Android Studio |
+| **[Classwork](https://github.com/mcmnyages/classwork)** ✏️ | Assignments, demos, and coding exercises. | Various |
+| **React & React Native Apps** (WIP) ⚛️ | Upcoming mobile and web apps—stay tuned! | React, React Native, Expo |
 
-Contributing
-- Branching: feature/<short-name> or fix/<short-name>
-- Commit messages: imperative tense (e.g. "Add login button")
-- Pull requests: target main (or develop if used), include a short description and testing steps
-- Tests & linting: add tests where practical and keep lint rules passing
+---
 
-Security & secrets
-- Never commit .env, API keys, keystores, or other secrets.
-- Use GitHub Secrets for CI and encrypted storage for signing keys.
+## 🛠️ Tech Stack
+Here’s what powers my projects:
 
-Contact
-- Portfolio / site: https://mcmnyages.github.io/silas_moracha.io/
-- GitHub: https://github.com/mcmnyages
-- Email: add an email address to your profile if you want direct contact
+| **Category**       | **Technologies**                              |
+|---------------------|-----------------------------------------------|
+| **Frontend**       | ⚛️ React, React Native, Expo                |
+| **Mobile**         | 📱 Android (Java, Kotlin), Android Studio, Gradle |
+| **Backend/Tools**  | 🌐 Node.js, Express                         |
+| **Database**       | 🗄️ MySQL                                   |
+| **Languages**      | 💻 Java, Kotlin, JavaScript (ES6+), SQL     |
 
-License
-If you prefer a permissive license, add a LICENSE file (MIT is a common choice).
+---
 
-What I prepared
-- A modern, concise README that links to your portfolio, highlights your main repos, and gives quick run instructions for the common project types you maintain.
+## 🚀 Quick Start Guides
+Get my projects running in no time:
 
-Suggested next steps
-- Add screenshots and repo-specific run instructions inside each repo.
-- Add CONTRIBUTING.md and .gitignore to standardize contributions.
-- Add CI workflows for React / Android projects to run builds and checks automatically.
-```
+### 🌐 Web (React)
+- **Prerequisites**: Node.js ≥ 16, npm/yarn  
+- **Install**: `npm install`  
+- **Run**: `npm run start`  
+- **Build**: `npm run build`
+
+### 📱 Mobile (React Native / Expo)
+- **Prerequisites**: Node.js, npm/yarn, Expo CLI (for Expo), or Android/iOS toolchains  
+- **Install**: `npm install`  
+- **Run (Expo)**: `expo start`  
+- **Run (Android Native)**: `cd android && ./gradlew assembleDebug`
+
+### 🤖 Android Studio Projects
+- Open in **Android Studio**  
+- Ensure **SDKs** and **JDK** are installed  
+- Build/Run via IDE or: `cd android && ./gradlew assembleDebug`
+
+### 🗄️ SQL / MySQL
+- Import schema:  
+  ```bash
+  mysql -u <user> -p <database> < schema.sql

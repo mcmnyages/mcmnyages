@@ -10,7 +10,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mcmnyages-blue?style=flat&logo=linkedin)](https://linkedin.com/in/mcmnyages)
-[![Portfolio](https://img.shields.io/badge/Portfolio-silas--moracha.io-green?style=flat&logo=google-chrome)](https://silas-moracha.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-silas--moracha.io-green?style=flat&logo=google-chrome)](https://https://mcmnyages.github.io/silas_moracha.io/)
 [![Instagram](https://img.shields.io/badge/Instagram-mcmnyages-purple?style=flat&logo=instagram)](https://instagram.com/mcmnyages)
 [![Email](https://img.shields.io/badge/Email-morachasilas%40gmail.com-red?style=flat&logo=gmail)](mailto:morachasilas@gmail.com)
 

@@ -1,24 +1,86 @@
-# 💫 About Me:
-Hi there! I'm Silas Moracha, but you can call me McMnyages. <br>
-I'm a soon-to-be IT graduate from Maseno University, with a deep passion for<br> Cybersecurity and technology. Currently awaiting graduation and eager to apply my skills in the real world!
+```md
+# Silas Moracha (mcmnyages) — Portfolio & Projects
 
-🎓 Education: Bachelor's in Information Technology, Maseno University<br>
-🔒 Focus: Cybersecurity enthusiast<br>
-🌱 Currently: Exploring new technologies and preparing for professional certifications<br>
-🚀 Goals: Contributing to the cybersecurity community and making the digital world safer
+Welcome — I’m Silas (GitHub: @mcmnyages). This repository is the central index for my work: academic projects, Android apps, SQL exercises, and an evolving collection of React and React Native apps. For a visual portfolio and contact info, visit my site: https://mcmnyages.github.io/silas_moracha.io/
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mcmnyages) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white)](https://linkedin.com/in/mcmnyages)
+Quick links
+- Portfolio (GitHub Pages): https://mcmnyages.github.io/silas_moracha.io/
+- GitHub: https://github.com/mcmnyages
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+Featured repositories
+- mcmnyages/WORLD_MySQL — MySQL schemas, sample data and SQL exercises
+- mcmnyages/CIT-415-Year-4 — Year 4 course projects and coursework
+- mcmnyages/Android_Studio_Projects — Android Studio sample apps (Java/Kotlin)
+- mcmnyages/classwork — Class assignments, small demos and exercises
+- (Upcoming) React and React Native apps — mobile & web projects in progress
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mcmnyages&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mcmnyages&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mcmnyages&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+About this repo
+This repository serves as a landing README that helps visitors quickly understand my work and find the right project. Each project contains its own README with project-specific details, run instructions, and screenshots where applicable.
 
----
-[![](https://visitcount.itsvg.in/api?id=mcmnyages&icon=0&color=0)](https://visitcount.itsvg.in)
+Tech snapshot
+- Frontend: React, React Native, Expo
+- Mobile: Android (Java / Kotlin), Android Studio, Gradle
+- Backend / Tools: Node.js, Express (when applicable)
+- Database: MySQL
+- Languages: Java, Kotlin, JavaScript (ES6+), SQL
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Common quick start (by project type)
+
+- Web (React)
+  - Prereqs: Node >= 16, npm or yarn
+  - Install: npm install
+  - Dev: npm run start
+  - Build: npm run build
+
+- Mobile (React Native / Expo)
+  - Prereqs: Node, npm/yarn, Expo CLI (if using Expo), or native toolchains for Android/iOS
+  - Install: npm install
+  - Run (Expo): expo start
+  - Run (Android native): cd android && ./gradlew assembleDebug
+
+- Android Studio projects
+  - Open the project in Android Studio
+  - Ensure required SDKs and a JDK are installed
+  - Build/Run using the IDE or ./gradlew assembleDebug from the android directory
+
+- SQL / MySQL
+  - Import a schema or dump:
+    mysql -u <user> -p <database> < schema.sql
+  - Use sample data only; never commit production secrets.
+
+Repository layout suggestions
+- README.md — Project overview (this file)
+- CONTRIBUTING.md — Contribution rules & PR guidance
+- .gitignore — Node / Android / general ignores
+- .github/workflows/ — CI definitions (optional)
+- docs/ — Additional docs, screenshots, API notes
+- sql/ — Database schema and seeds
+- android/ — Android Studio project files
+- src/ or app/ — Frontend / mobile source
+
+Contributing
+- Branching: feature/<short-name> or fix/<short-name>
+- Commit messages: imperative tense (e.g. "Add login button")
+- Pull requests: target main (or develop if used), include a short description and testing steps
+- Tests & linting: add tests where practical and keep lint rules passing
+
+Security & secrets
+- Never commit .env, API keys, keystores, or other secrets.
+- Use GitHub Secrets for CI and encrypted storage for signing keys.
+
+Contact
+- Portfolio / site: https://mcmnyages.github.io/silas_moracha.io/
+- GitHub: https://github.com/mcmnyages
+- Email: add an email address to your profile if you want direct contact
+
+License
+If you prefer a permissive license, add a LICENSE file (MIT is a common choice).
+
+What I prepared
+- A modern, concise README that links to your portfolio, highlights your main repos, and gives quick run instructions for the common project types you maintain.
+
+Suggested next steps
+- Add screenshots and repo-specific run instructions inside each repo.
+- Add CONTRIBUTING.md and .gitignore to standardize contributions.
+- Add CI workflows for React / Android projects to run builds and checks automatically.
+```

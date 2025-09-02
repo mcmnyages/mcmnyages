@@ -10,7 +10,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mcmnyages-blue?style=flat&logo=linkedin)](https://linkedin.com/in/mcmnyages)
-[![Portfolio](https://img.shields.io/badge/Portfolio-silas--moracha.io-green?style=flat&logo=google-chrome)](https://https://mcmnyages.github.io/silas_moracha.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-silas--moracha.io-green?style=flat&logo=google-chrome)](https://mcmnyages.github.io/silas_moracha.io/)
 [![Instagram](https://img.shields.io/badge/Instagram-mcmnyages-purple?style=flat&logo=instagram)](https://instagram.com/mcmnyages)
 [![Email](https://img.shields.io/badge/Email-morachasilas%40gmail.com-red?style=flat&logo=gmail)](mailto:morachasilas@gmail.com)
 
@@ -74,7 +74,7 @@ Here's my toolkit for crafting robust projects:
 - **GitHub:** [mcmnyages](https://github.com/mcmnyages)
 - **LinkedIn:** [mcmnyages](https://linkedin.com/in/mcmnyages)
 - **Instagram:** [mcmnyages](https://instagram.com/mcmnyages)
-- **Portfolio:** [silas-moracha.io](https://silas-moracha.io)
+- **Portfolio:** [silas-moracha.io](https://mcmnyages.github.io/silas_moracha.io/)
 
 ## 🤝 Contributing
 
@@ -99,7 +99,7 @@ Security is my priority:
 
 I'm excited to connect with fellow tech enthusiasts:
 
-- 🌐 **Portfolio:** [silas-moracha.io](https://silas-moracha.io)
+- 🌐 **Portfolio:** [silas-moracha.io](https://mcmnyages.github.io/silas_moracha.io/)
 - 📧 **Email:** [morachasilas@gmail.com](mailto:morachasilas@gmail.com)
 - 🔗 **LinkedIn:** [linkedin.com/in/mcmnyages](https://linkedin.com/in/mcmnyages)
 - 📸 **Instagram:** [instagram.com/mcmnyages](https://instagram.com/mcmnyages)

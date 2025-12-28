@@ -37,6 +37,7 @@ I'm a security-minded software engineer with hands-on experience across web, mob
 - 🔒 **Focus Areas:** Cybersecurity, secure coding, vulnerability assessment, defensive design  
 - 🌱 **Current Work:** Building full-stack apps, improving CI/CD security, preparing for security certifications  
 - 🚀 **Mission:** Ship usable software that respects privacy and resists attacks
+- 🎯 **CTF Enthusiast:** Love playing Capture The Flag competitions to sharpen my cybersecurity skills and stay updated with the latest attack vectors and defense techniques
 
 ## 🌟 Highlights
 
@@ -44,6 +45,7 @@ I'm a security-minded software engineer with hands-on experience across web, mob
 - Built multiple Android and web apps with emphasis on secure data handling and UX.  
 - Created learning-focused database schemas and example datasets (MySQL).  
 - Active in open-source projects and continuously improving code quality, testing, and documentation.
+- Regular CTF participant, applying hands-on security skills in real-world scenarios.
 
 ## 🛠️ Tech Stack
 
@@ -51,15 +53,15 @@ Languages & frameworks I use regularly:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io-badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![React](https://img.shields.io-badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io-badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 Supporting tools & concepts:
 - Databases: MySQL, SQL queries and schema design  
 - Mobile: Android (Java, Kotlin), React Native / Expo  
 - Dev: Git, REST APIs, unit testing, basic CI practices  
-- Security: Secure coding practices, input validation, secrets management
+- Security: Secure coding practices, input validation, secrets management, CTF competitions
 
 ## 🌐 Project Showcase
 
@@ -77,10 +79,16 @@ Supporting tools & concepts:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mcmnyages&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mcmnyages&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mcmnyages&show_icons=true&theme=radical&cache_seconds=1800)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mcmnyages&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mcmnyages&layout=compact&theme=radical&cache_seconds=1800)
 
 </div>
+
+> **Note:** If stats don't load, GitHub's API may be rate-limited. Try refreshing after a few minutes or view my profile directly at [@mcmnyages](https://github.com/mcmnyages).
+
+**🎯 CTF & Cybersecurity Practice:**  
+I regularly participate in Capture The Flag (CTF) competitions to strengthen my cybersecurity skills. These challenges help me stay sharp with penetration testing, reverse engineering, cryptography, and web exploitation techniques — all essential for building more secure applications.
 
 ## 🤝 Contributing
 
@@ -101,6 +109,7 @@ Security is central to my work:
 - 🔐 Sanitize and validate all inputs; avoid unsafe deserialization.  
 - 🧹 Use sample or anonymized data in public repos.  
 - 🔍 Document known limitations and encourage responsible disclosure for vulnerabilities.
+- 🎯 Continuously improve security knowledge through CTF competitions and hands-on practice.
 
 If you discover a security issue, please contact me directly via email before public disclosure.
 
@@ -111,7 +120,7 @@ If you discover a security issue, please contact me directly via email before pu
 - 🔗 LinkedIn: [linkedin.com/in/mcmnyages](https://linkedin.com/in/mcmnyages)  
 - 📸 Instagram: [instagram.com/mcmnyages](https://instagram.com/mcmnyages)
 
-I’m open to collaboration, mentorship, and opportunities that match my passion for secure software and practical engineering.
+I'm open to collaboration, mentorship, and opportunities that match my passion for secure software and practical engineering.
 
 ## 📜 License
 

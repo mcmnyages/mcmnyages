@@ -1,11 +1,11 @@
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/70867022?s=400&u=be3f88201c5a8ce140d7f297a1152812aea67082&v=4" alt="Silas Moracha" width="300" style="border-radius: 50%;" />
 
-  # 👋 Silas Moracha (@mcmnyages)
-  ## Cybersecurity & Software Innovator
+  # 👋 Silas Moracha (mcmnyages)
+  ## Cybersecurity & Software Engineer — B.Sc. Information Technology, Maseno University (Graduated 2025)
 </div>
 
-> 🌟 Welcome to my tech universe! I'm Silas Moracha, aka McMnyages, a final-year IT student at Maseno University (graduating 2025) with a burning passion for cybersecurity and software development. This repo showcases my skills through Android apps, web projects, and database designs.
+> 🌟 Hi — I'm Silas (McMnyages). I combine practical software development with security-first thinking to build reliable, maintainable, and secure applications. I recently completed my B.Sc. in Information Technology at Maseno University (Class of 2025) and I'm actively working on projects that bridge web, mobile, and backend systems with strong security practices.
 
 <div align="center">
 
@@ -19,10 +19,10 @@
 ## 📑 Table of Contents
 
 - [About Me](#-about-me)
-- [Tech Stack](#️-tech-stack)
+- [Highlights](#-highlights)
+- [Tech Stack](#-tech-stack)
 - [Project Showcase](#-project-showcase)
 - [GitHub Activity](#-github-activity)
-- [Socials](#-socials)
 - [Contributing](#-contributing)
 - [Security Practices](#-security-practices)
 - [Get in Touch](#-get-in-touch)
@@ -30,35 +30,48 @@
 
 ## 🙋‍♂️ About Me
 
-I'm a tech enthusiast blending cybersecurity expertise with software development to build secure, innovative solutions. As a soon-to-be IT graduate from Maseno University, I'm exploring cutting-edge tools and preparing for cybersecurity certifications to make the digital world safer.
+I'm a security-minded software engineer with hands-on experience across web, mobile, and backend development. I care about secure-by-design solutions, clear code, and building products that users trust.
 
-### My Story
-- 👨‍💻 **Name:** Silas Moracha | McMnyages
-- 🎓 **Education:** B.Sc. Information Technology, Maseno University (2025)
-- 🔒 **Passion:** Cybersecurity, ethical hacking, secure coding
-- 🌱 **Currently:** Building apps, mastering databases, prepping for certs
-- 🚀 **Mission:** Create secure, user-friendly tech solutions
+- 👨‍💻 **Name:** Silas Moracha | McMnyages  
+- 🎓 **Education:** B.Sc. Information Technology, Maseno University — Graduated 2025  
+- 🔒 **Focus Areas:** Cybersecurity, secure coding, vulnerability assessment, defensive design  
+- 🌱 **Current Work:** Building full-stack apps, improving CI/CD security, preparing for security certifications  
+- 🚀 **Mission:** Ship usable software that respects privacy and resists attacks
+
+## 🌟 Highlights
+
+- Graduated from Maseno University (B.Sc. Information Technology) — Class of 2025.  
+- Built multiple Android and web apps with emphasis on secure data handling and UX.  
+- Created learning-focused database schemas and example datasets (MySQL).  
+- Active in open-source projects and continuously improving code quality, testing, and documentation.
 
 ## 🛠️ Tech Stack
 
-Here's my toolkit for crafting robust projects:
+Languages & frameworks I use regularly:
 
-### Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io-badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![React](https://img.shields.io-badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io-badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
-## 🌟 Project Showcase
+Supporting tools & concepts:
+- Databases: MySQL, SQL queries and schema design  
+- Mobile: Android (Java, Kotlin), React Native / Expo  
+- Dev: Git, REST APIs, unit testing, basic CI practices  
+- Security: Secure coding practices, input validation, secrets management
 
-| Project | Overview | Tech Stack |
-|---------|----------|------------|
-| **WORLD_MySQL** 🗄️ | Designed MySQL schemas and queries for efficient data management, with sample datasets for learning. | MySQL, SQL |
-| **CIT-415-Year-4** 📚 | Academic projects showcasing problem-solving in IT, from algorithms to system design. | Various |
-| **Android_Studio_Projects** 📱 | Built Android apps with secure coding practices, including UI/UX and backend integration. | Java, Kotlin, Android Studio |
-| **Classwork** ✏️ | Coding exercises and assignments highlighting my growth in programming and IT concepts. | Various |
-| **React & React Native Apps** ⚛️ | Developing cross-platform mobile and web apps with modern frameworks (demos coming soon!). | React, React Native, Expo |
+## 🌐 Project Showcase
+
+| Project | Overview | Tech |
+|---------|----------|------|
+| WORLD_MySQL 🗄️ | MySQL schema design and example datasets to teach data modeling and queries. Useful for learning relational design and optimization. | MySQL |
+| CIT-415-Year-4 📚 | Academic and capstone projects covering algorithms, system design, and practical IT solutions. | Various |
+| Android_Studio_Projects 📱 | Android apps with attention to secure data handling, authentication patterns, and UI/UX. | Java, Kotlin |
+| Classwork & Assignments ✏️ | Exercises and small projects tracing my learning path and problem-solving approach. | Various |
+| React & React Native Apps ⚛️ | Web and cross-platform mobile prototypes that explore modern front-end patterns and secure API usage. | React, React Native |
+
+(See individual folders for demos, README files, and setup instructions.)
 
 ## 📊 GitHub Activity
 
@@ -69,44 +82,40 @@ Here's my toolkit for crafting robust projects:
 
 </div>
 
-## 🌐 Socials
-
-- **GitHub:** [mcmnyages](https://github.com/mcmnyages)
-- **LinkedIn:** [mcmnyages](https://linkedin.com/in/mcmnyages)
-- **Instagram:** [mcmnyages](https://instagram.com/mcmnyages)
-- **Portfolio:** [silas-moracha.io](https://mcmnyages.github.io/silas_moracha.io/)
-
 ## 🤝 Contributing
 
-I welcome feedback and contributions to my projects:
+I welcome collaboration and feedback. A few guidelines to make contributions smooth:
 
-- **Branches:** Use `feature/<name>` or `fix/<name>`
-- **Commits:** Write in imperative tense (e.g., "Add authentication module")
-- **Pull Requests:** Target main, include a clear description and testing steps
-- **Tests:** Add tests where possible and follow linting rules
+- Branches: use `feature/<name>` or `fix/<name>`  
+- Commits: write clear, imperative commit messages (e.g., "Add authentication module")  
+- PRs: target `main`, include a description, link to related issues, and steps to test  
+- Tests: add tests where possible and follow linting rules
 
-Have suggestions? Open an issue, and I'll respond quickly!
+Open an issue or PR — I try to respond promptly.
 
 ## 🔒 Security Practices
 
-Security is my priority:
+Security is central to my work:
 
-- 🚫 Never commit: `.env` files, API keys, or credentials
-- 🔐 GitHub Secrets: Used for CI/CD and secure key storage
-- 🧹 Safe Data: Only sanitized/sample data in public repos
+- 🚫 Never commit secrets or `.env` files — use environment variables and GitHub Secrets.  
+- 🔐 Sanitize and validate all inputs; avoid unsafe deserialization.  
+- 🧹 Use sample or anonymized data in public repos.  
+- 🔍 Document known limitations and encourage responsible disclosure for vulnerabilities.
+
+If you discover a security issue, please contact me directly via email before public disclosure.
 
 ## 📬 Get in Touch
 
-I'm excited to connect with fellow tech enthusiasts:
+- 🌐 Portfolio: [silas-moracha.io](https://mcmnyages.github.io/silas_moracha.io/)  
+- 📧 Email: [morachasilas@gmail.com](mailto:morachasilas@gmail.com)  
+- 🔗 LinkedIn: [linkedin.com/in/mcmnyages](https://linkedin.com/in/mcmnyages)  
+- 📸 Instagram: [instagram.com/mcmnyages](https://instagram.com/mcmnyages)
 
-- 🌐 **Portfolio:** [silas-moracha.io](https://mcmnyages.github.io/silas_moracha.io/)
-- 📧 **Email:** [morachasilas@gmail.com](mailto:morachasilas@gmail.com)
-- 🔗 **LinkedIn:** [linkedin.com/in/mcmnyages](https://linkedin.com/in/mcmnyages)
-- 📸 **Instagram:** [instagram.com/mcmnyages](https://instagram.com/mcmnyages)
+I’m open to collaboration, mentorship, and opportunities that match my passion for secure software and practical engineering.
 
 ## 📜 License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
@@ -114,6 +123,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 Crafted with 💻, 🔒, and ☕ by Silas Moracha
 
-*I'm on a mission to secure and innovate. Star this repo, share your thoughts, or join me in building a safer digital world! 🚀*
+*On a mission to secure and innovate — star the repo, share feedback, or join me in building safer software!* 🚀
 
 </div>

@@ -79,13 +79,15 @@ Supporting tools & concepts:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mcmnyages&show_icons=true&theme=radical&cache_seconds=1800)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mcmnyages&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mcmnyages&layout=compact&theme=radical&cache_seconds=1800)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mcmnyages&theme=radical)](https://git.io/streak-stats)
+
+[![Silas's GitHub stats](https://github-readme-stats.vercel.app/api?username=mcmnyages&show_icons=true&theme=radical&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcmnyages&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+![Profile Views](https://komarev.com/ghpvc/?username=mcmnyages&color=blueviolet&style=flat-square&label=Profile+Views)
 
 </div>
-
-> **Note:** If stats don't load, GitHub's API may be rate-limited. Try refreshing after a few minutes or view my profile directly at [@mcmnyages](https://github.com/mcmnyages).
 
 **🎯 CTF & Cybersecurity Practice:**  
 I regularly participate in Capture The Flag (CTF) competitions to strengthen my cybersecurity skills. These challenges help me stay sharp with penetration testing, reverse engineering, cryptography, and web exploitation techniques — all essential for building more secure applications.

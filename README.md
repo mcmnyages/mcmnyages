@@ -1,139 +1,317 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/70867022?s=400&u=be3f88201c5a8ce140d7f297a1152812aea67082&v=4" alt="Silas Moracha" width="300" style="border-radius: 50%;" />
+  <img src="https://avatars.githubusercontent.com/u/70867022?s=400&u=be3f88201c5a8ce140d7f297a1152812aea67082&v=4" alt="Silas Moracha" width="200" style="border-radius: 50%;" />
 
-  # 👋 Silas Moracha (mcmnyages)
-  ## Cybersecurity & Software Engineer — B.Sc. Information Technology, Maseno University (Graduated 2025)
-</div>
+  # 👋 Silas Moracha
+  ## Cybersecurity & Software Engineer
+  
+  *B.Sc. Information Technology — Maseno University, Class of 2025*
 
-> 🌟 Hi — I'm Silas (McMnyages). I combine practical software development with security-first thinking to build reliable, maintainable, and secure applications. I recently completed my B.Sc. in Information Technology at Maseno University (Class of 2025) and I'm actively working on projects that bridge web, mobile, and backend systems with strong security practices.
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mcmnyages-blue?style=flat&logo=linkedin)](https://linkedin.com/in/mcmnyages)
-[![Portfolio](https://img.shields.io/badge/Portfolio-silas--moracha.io-green?style=flat&logo=google-chrome)](https://mcmnyages.github.io/silas_moracha.io/)
-[![Instagram](https://img.shields.io/badge/Instagram-mcmnyages-purple?style=flat&logo=instagram)](https://instagram.com/mcmnyages)
-[![Email](https://img.shields.io/badge/Email-morachasilas%40gmail.com-red?style=flat&logo=gmail)](mailto:morachasilas@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mcmnyages)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mcmnyages.github.io/silas_moracha.io/)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:morachasilas@gmail.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mcmnyages)
 
 </div>
 
-## 📑 Table of Contents
+---
 
-- [About Me](#-about-me)
-- [Highlights](#-highlights)
-- [Tech Stack](#-tech-stack)
-- [Project Showcase](#-project-showcase)
-- [GitHub Activity](#-github-activity)
-- [Contributing](#-contributing)
-- [Security Practices](#-security-practices)
-- [Get in Touch](#-get-in-touch)
-- [License](#-license)
+## 👨‍💻 About Me
 
-## 🙋‍♂️ About Me
+I'm a security-focused software engineer passionate about building robust, maintainable applications that users can trust. With a fresh perspective from graduating with a B.Sc. in Information Technology (Maseno University, 2025), I bring together practical development skills and a security-first mindset to create solutions that work and withstand real-world threats.
 
-I'm a security-minded software engineer with hands-on experience across web, mobile, and backend development. I care about secure-by-design solutions, clear code, and building products that users trust.
+```python
+class SilasMoracha:
+    def __init__(self):
+        self.username = "mcmnyages"
+        self.role = "Cybersecurity & Software Engineer"
+        self.education = "B.Sc. Information Technology, Maseno University (2025)"
+        self.location = "Nairobi, Kenya"
+        self.interests = ["Secure Coding", "CTF Competitions", "Full-Stack Development"]
+        
+    def current_focus(self):
+        return [
+            "Building secure web and mobile applications",
+            "Preparing for security certifications",
+            "Contributing to open-source projects",
+            "Sharpening skills through CTF competitions"
+        ]
+```
 
-- 👨‍💻 **Name:** Silas Moracha | McMnyages  
-- 🎓 **Education:** B.Sc. Information Technology, Maseno University — Graduated 2025  
-- 🔒 **Focus Areas:** Cybersecurity, secure coding, vulnerability assessment, defensive design  
-- 🌱 **Current Work:** Building full-stack apps, improving CI/CD security, preparing for security certifications  
-- 🚀 **Mission:** Ship usable software that respects privacy and resists attacks
-- 🎯 **CTF Enthusiast:** Love playing Capture The Flag competitions to sharpen my cybersecurity skills and stay updated with the latest attack vectors and defense techniques
+### 🎯 What Drives Me
 
-## 🌟 Highlights
+- 🔐 **Security-First:** Every line of code is an opportunity to build trust and protect users
+- 🚀 **Practical Solutions:** I believe in shipping software that solves real problems
+- 📚 **Continuous Learning:** From CTF challenges to new frameworks, I'm always expanding my skillset
+- 🤝 **Collaboration:** Open source and knowledge sharing make us all better developers
 
-- Graduated from Maseno University (B.Sc. Information Technology) — Class of 2025.  
-- Built multiple Android and web apps with emphasis on secure data handling and UX.  
-- Created learning-focused database schemas and example datasets (MySQL).  
-- Active in open-source projects and continuously improving code quality, testing, and documentation.
-- Regular CTF participant, applying hands-on security skills in real-world scenarios.
+---
 
 ## 🛠️ Tech Stack
 
-Languages & frameworks I use regularly:
-
+### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+
+### Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 
-Supporting tools & concepts:
-- Databases: MySQL, SQL queries and schema design  
-- Mobile: Android (Java, Kotlin), React Native / Expo  
-- Dev: Git, REST APIs, unit testing, basic CI practices  
-- Security: Secure coding practices, input validation, secrets management, CTF competitions
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-## 🌐 Project Showcase
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-| Project | Overview | Tech |
-|---------|----------|------|
-| WORLD_MySQL 🗄️ | MySQL schema design and example datasets to teach data modeling and queries. Useful for learning relational design and optimization. | MySQL |
-| CIT-415-Year-4 📚 | Academic and capstone projects covering algorithms, system design, and practical IT solutions. | Various |
-| Android_Studio_Projects 📱 | Android apps with attention to secure data handling, authentication patterns, and UI/UX. | Java, Kotlin |
-| Classwork & Assignments ✏️ | Exercises and small projects tracing my learning path and problem-solving approach. | Various |
-| React & React Native Apps ⚛️ | Web and cross-platform mobile prototypes that explore modern front-end patterns and secure API usage. | React, React Native |
+### Security & CTF
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
 
-(See individual folders for demos, README files, and setup instructions.)
+---
 
-## 📊 GitHub Activity
+## 🚀 Featured Projects
+
+### 🗄️ [WORLD_MySQL](https://github.com/mcmnyages/WORLD_MySQL)
+**Database Schema Design & Learning Resource**
+
+A comprehensive MySQL project featuring well-structured schemas and example datasets designed for teaching and learning relational database concepts, query optimization, and data modeling best practices.
+
+**Tech:** MySQL, Database Design, SQL Optimization
+
+---
+
+### 📱 [Android Studio Projects](https://github.com/mcmnyages/Android_Studio_Projects)
+**Secure Mobile Applications**
+
+Collection of Android applications emphasizing secure authentication patterns, encrypted data storage, and user-friendly interfaces. Each project demonstrates real-world mobile development scenarios with security at the forefront.
+
+**Tech:** Java, Kotlin, Android SDK, SQLite
+
+---
+
+### ⚛️ React & React Native Applications
+**Modern Web & Mobile Solutions**
+
+Full-stack web applications and cross-platform mobile apps built with React ecosystem. Focus on clean architecture, secure API integration, state management, and responsive design.
+
+**Tech:** React, React Native, Expo, REST APIs, JWT Authentication
+
+---
+
+### 📚 [CIT-415 Year 4 Projects](https://github.com/mcmnyages/CIT-415-Year-4)
+**Academic & Capstone Work**
+
+Final year university projects covering algorithms, system design, network security, and practical IT solutions. Includes documentation, implementation, and testing strategies.
+
+**Tech:** Various (Python, Java, Web Technologies)
+
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mcmnyages&theme=radical)](https://git.io/streak-stats)
-
-[![Silas's GitHub stats](https://github-readme-stats.vercel.app/api?username=mcmnyages&show_icons=true&theme=radical&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcmnyages&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-![Profile Views](https://komarev.com/ghpvc/?username=mcmnyages&color=blueviolet&style=flat-square&label=Profile+Views)
+<a href="https://github.com/mcmnyages">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mcmnyages&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcmnyages&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</a>
 
 </div>
 
-**🎯 CTF & Cybersecurity Practice:**  
-I regularly participate in Capture The Flag (CTF) competitions to strengthen my cybersecurity skills. These challenges help me stay sharp with penetration testing, reverse engineering, cryptography, and web exploitation techniques — all essential for building more secure applications.
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mcmnyages&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mcmnyages&theme=tokyo-night&hide_border=true&area=true)
+
+</div>
+
+---
+
+## 🎯 CTF & Cybersecurity Practice
+
+I actively participate in Capture The Flag competitions to maintain and expand my cybersecurity expertise. These challenges keep me current with:
+
+- 🔓 **Penetration Testing:** Web app vulnerabilities, privilege escalation, lateral movement
+- 🔍 **Reverse Engineering:** Binary analysis, malware dissection, code deobfuscation
+- 🔐 **Cryptography:** Classical ciphers to modern cryptographic attacks
+- 🌐 **Web Exploitation:** SQL injection, XSS, CSRF, authentication bypass
+- 🖥️ **Binary Exploitation:** Buffer overflows, ROP chains, heap exploitation
+
+These skills directly inform my secure coding practices and threat modeling approaches in production applications.
+
+---
+
+## 🔒 Security Philosophy
+
+Security isn't a feature—it's a foundation. Here's how I approach it:
+
+### Core Principles
+
+- **Defense in Depth:** Multiple layers of security controls
+- **Least Privilege:** Minimal access rights for users and systems
+- **Secure by Default:** Security baked into design, not bolted on later
+- **Fail Securely:** Systems should fail in a safe state
+- **Keep It Simple:** Complex systems are harder to secure
+
+### Best Practices I Follow
+
+```yaml
+Code Security:
+  - Input Validation: Sanitize and validate all user inputs
+  - Output Encoding: Prevent injection attacks
+  - Authentication: Strong password policies, MFA where possible
+  - Authorization: Role-based access control (RBAC)
+  - Cryptography: Industry-standard algorithms, proper key management
+  
+Development Process:
+  - Secret Management: Never commit credentials or API keys
+  - Dependency Scanning: Regular updates and vulnerability checks
+  - Code Reviews: Security-focused peer review process
+  - Testing: Unit tests, integration tests, security tests
+  - Documentation: Clear security documentation and threat models
+  
+Operations:
+  - Logging & Monitoring: Comprehensive audit trails
+  - Incident Response: Prepared for security events
+  - Updates: Regular patching and maintenance
+  - Backups: Encrypted, tested backup procedures
+```
+
+### 🚨 Responsible Disclosure
+
+If you discover a security vulnerability in any of my projects:
+
+1. **DO NOT** open a public issue
+2. Email me directly at [morachasilas@gmail.com](mailto:morachasilas@gmail.com)
+3. Include detailed steps to reproduce
+4. Allow reasonable time for a fix before public disclosure
+
+I take security seriously and will respond promptly to legitimate reports.
+
+---
 
 ## 🤝 Contributing
 
-I welcome collaboration and feedback. A few guidelines to make contributions smooth:
+I welcome contributions, feedback, and collaboration! Here's how you can get involved:
 
-- Branches: use `feature/<name>` or `fix/<name>`  
-- Commits: write clear, imperative commit messages (e.g., "Add authentication module")  
-- PRs: target `main`, include a description, link to related issues, and steps to test  
-- Tests: add tests where possible and follow linting rules
+### Getting Started
 
-Open an issue or PR — I try to respond promptly.
+1. Fork the repository
+2. Create a feature branch (`git checkout -b feature/amazing-feature`)
+3. Make your changes
+4. Write or update tests as needed
+5. Commit your changes (`git commit -m 'Add amazing feature'`)
+6. Push to the branch (`git push origin feature/amazing-feature`)
+7. Open a Pull Request
 
-## 🔒 Security Practices
+### Guidelines
 
-Security is central to my work:
+- **Code Style:** Follow existing patterns and formatting
+- **Commits:** Use clear, descriptive commit messages
+- **Testing:** Add tests for new features
+- **Documentation:** Update README and comments as needed
+- **Security:** Never commit secrets or sensitive data
 
-- 🚫 Never commit secrets or `.env` files — use environment variables and GitHub Secrets.  
-- 🔐 Sanitize and validate all inputs; avoid unsafe deserialization.  
-- 🧹 Use sample or anonymized data in public repos.  
-- 🔍 Document known limitations and encourage responsible disclosure for vulnerabilities.
-- 🎯 Continuously improve security knowledge through CTF competitions and hands-on practice.
+### Code of Conduct
 
-If you discover a security issue, please contact me directly via email before public disclosure.
+- Be respectful and inclusive
+- Provide constructive feedback
+- Focus on what's best for the project
+- Show empathy towards other contributors
 
-## 📬 Get in Touch
+---
 
-- 🌐 Portfolio: [silas-moracha.io](https://mcmnyages.github.io/silas_moracha.io/)  
-- 📧 Email: [morachasilas@gmail.com](mailto:morachasilas@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/mcmnyages](https://linkedin.com/in/mcmnyages)  
-- 📸 Instagram: [instagram.com/mcmnyages](https://instagram.com/mcmnyages)
+## 🌱 What I'm Learning
 
-I'm open to collaboration, mentorship, and opportunities that match my passion for secure software and practical engineering.
+- ☁️ Cloud Security (AWS, Azure)
+- 🔍 Advanced Threat Hunting
+- 🏗️ Secure Software Development Lifecycle (SSDLC)
+- 📜 Working towards security certifications (CEH, OSCP)
+- 🦀 Exploring Rust for systems programming
 
-## 📜 License
+---
 
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+## 📈 2025 Goals
+
+- [ ] Contribute to 10+ open-source security projects
+- [ ] Obtain first professional security certification
+- [ ] Build and deploy 3 production-ready secure applications
+- [ ] Rank in top 100 in a major CTF competition
+- [ ] Write 20+ technical blog posts on security topics
+- [ ] Mentor 5+ junior developers in secure coding practices
+
+---
+
+## 📬 Let's Connect
+
+I'm always interested in connecting with fellow developers, security enthusiasts, and potential collaborators!
+
+<div align="center">
+
+### 💼 Professional
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mcmnyages)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=google-chrome)](https://mcmnyages.github.io/silas_moracha.io/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:morachasilas@gmail.com)
+
+### 🌐 Social
+
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/mcmnyages)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github)](https://github.com/mcmnyages)
+
+</div>
+
+### 🤝 Open To
+
+- 💼 Full-time opportunities in cybersecurity or software engineering
+- 🎯 Freelance projects with a security focus
+- 👥 Mentorship and knowledge sharing
+- 🚀 Collaborating on open-source security tools
+- 🎤 Speaking at tech events and meetups
+
+---
+
+## 📄 License
+
+This repository and its contents are licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
+
+### TL;DR
+
+You can use, modify, and distribute this code, but please provide attribution and include the license notice.
 
 ---
 
 <div align="center">
 
-Crafted with 💻, 🔒, and ☕ by Silas Moracha
+### 💭 Final Thoughts
 
-*On a mission to secure and innovate — star the repo, share feedback, or join me in building safer software!* 🚀
+> "Security is not a product, but a process." — Bruce Schneier
+
+**Built with 💻 Security, ☕ Coffee, and 🔥 Passion**
+
+*If you find my work helpful, consider giving it a ⭐️*
+
+![Profile Views](https://komarev.com/ghpvc/?username=mcmnyages&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+
+---
+
+**© 2025 Silas Moracha | McMnyages**
+
+*Crafting secure software, one commit at a time* 🚀
 
 </div>

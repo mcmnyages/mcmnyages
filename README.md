@@ -2,9 +2,9 @@
   <img src="https://avatars.githubusercontent.com/u/70867022?s=400&u=be3f88201c5a8ce140d7f297a1152812aea67082&v=4" alt="Silas Moracha" width="150" style="border-radius: 50%;" />
 
   # 👋 Silas Moracha
-  ### Cybersecurity & Software Engineer
+  ### Cybersecurity & Software Engineer · AI Training Data Specialist
 
-  *B.Sc. Information Technology — Maseno University, Class of 2025*
+  *B.Sc. Information Technology — Maseno University, 2025*
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mcmnyages)
   [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mcmnyages.github.io/silas_moracha.io/)
@@ -18,22 +18,22 @@
 
 ## 👨‍💻 About Me
 
-I'm a security-focused software engineer passionate about building robust, maintainable applications that users can trust. With a fresh perspective from graduating with a B.Sc. in Information Technology (Maseno University, 2025), I bring together practical development skills and a security-first mindset to create solutions that work and withstand real-world threats.
+I'm a security-focused software engineer and AI training-data specialist. I graduated with a B.Sc. in Information Technology from Maseno University in 2025, and in 2026 I've been working at the intersection of software engineering and AI: helping train and evaluate AI models through video annotation and technical benchmark work, alongside secure application development.
 
 ```python
 class SilasMoracha:
     def __init__(self):
         self.username    = "mcmnyages"
-        self.role        = "Cybersecurity & Software Engineer"
+        self.role        = "Cybersecurity & Software Engineer | AI Training Data Specialist"
         self.education   = "B.Sc. Information Technology, Maseno University (2025)"
-        self.location    = "Kisumu, Kenya"
-        self.interests   = ["Secure Coding", "CTF Competitions", "Full-Stack Development"]
+        self.location    = "Eldoret, Kenya"
+        self.interests   = ["Secure Coding", "CTF Competitions", "AI/Agent Systems", "Full-Stack Development"]
 
     def current_focus(self):
         return [
-            "Building secure web and mobile applications",
+            "Training and evaluating AI models via video annotation and benchmark data",
+            "Building secure web, mobile, and AI-agent applications",
             "Preparing for security certifications (CEH, OSCP)",
-            "Contributing to open-source projects",
             "Sharpening skills through CTF competitions",
         ]
 ```
@@ -43,9 +43,20 @@ class SilasMoracha:
 | | |
 |---|---|
 | 🔐 **Security-First** | Every line of code is an opportunity to build trust and protect users |
+| 🤖 **AI Data Quality** | Well-labeled, well-evaluated data is what makes AI systems trustworthy |
 | 🚀 **Practical Solutions** | I believe in shipping software that solves real problems |
 | 📚 **Continuous Learning** | From CTF challenges to new frameworks, always expanding my skillset |
-| 🤝 **Collaboration** | Open source and knowledge sharing make us all better developers |
+
+---
+
+## 🤖 AI Training & Data Annotation (2026)
+
+Through 2026 I've been working directly on the data side of AI model training and evaluation:
+
+- **AI Video Annotator @ [Atlas Capture](https://github.com/mcmnyages)** — Egocentric video annotation for a Vision-Language-Action (VLA) model training pipeline, using Encord, working to structured captioning-style and segmentation-workflow standards under accuracy/productivity targets.
+- **Software Engineering Expert @ AfterQuery (YC W25)** — Building and reviewing technical benchmark data for AI evaluation, including multi-artifact reasoning tasks (required/distractor/conflicting evidence), prompt-rewrite qualification tasks, and evidence-grounded benchmark submissions combining workspace artifacts with open-web research.
+
+This work sits alongside my software engineering background — it's given me a close-up view of how AI models are actually trained and graded, not just how they're built.
 
 ---
 
@@ -58,17 +69,27 @@ class SilasMoracha:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white)
 
 ---
 
 ### 🧩 Frameworks & Libraries
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+
+---
+
+### 🤖 AI & Agent Tooling
+![Google ADK](https://img.shields.io/badge/Google_ADK-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Genkit](https://img.shields.io/badge/Genkit-FF6F00?style=for-the-badge)
+![Encord](https://img.shields.io/badge/Encord-000000?style=for-the-badge)
 
 ---
 
@@ -98,60 +119,88 @@ class SilasMoracha:
 ---
 
 ## 🏴‍☠️ CTF & Security Platforms
-- picoCTF  
-- Hack The Box  
-- TryHackMe  
-- Hellbound Hackers  
-- Huntress CTF  
-- Safaricom CTF  
-- I&M Bank CTF  
+- picoCTF
+- Hack The Box
+- TryHackMe
+- Hellbound Hackers
+- Huntress CTF
+- Safaricom CTF
+- I&M Bank CTF
 - Hacktober (multiple company CTFs)
-
----
-
-## 🤖 Currently Exploring
-- AI & RAG systems (Google Learning resources)
-- Advanced Web Exploitation
-- Cloud & Container Security
-- Continuous Learning 🚀
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🗄️ [WORLD\_MySQL](https://github.com/mcmnyages/WORLD_MySQL)
+### 🤖 [ai-agents-adk](https://github.com/mcmnyages/ai-agents-adk)
+> **AI Agent Systems with Google's Agent Development Kit**
+
+Building AI agents using Google's ADK, exploring agentic workflows and tool-calling patterns.
+
+`Python` `Google ADK` `AI Agents`
+
+---
+
+### 💬 [wonderbot-vertex-AI-](https://github.com/mcmnyages/wonderbot-vertex-AI-)
+> **Conversational AI on Vertex AI**
+
+A chatbot project built on Google Cloud's Vertex AI platform.
+
+`Python` `Vertex AI` `Google Cloud`
+
+---
+
+### 📖 [codelab-ai-genkit-rag](https://github.com/mcmnyages/codelab-ai-genkit-rag)
+> **Retrieval-Augmented Generation Codelab**
+
+Hands-on exploration of RAG pipelines built with Firebase Genkit.
+
+`TypeScript` `Genkit` `RAG`
+
+---
+
+### 🔐 [secure-cloud](https://github.com/mcmnyages/secure-cloud)
+> **Cloud Security Practice**
+
+A project applying secure design and cloud-security practices in a TypeScript codebase.
+
+`TypeScript` `Cloud Security`
+
+---
+
+### 🗄️ [WORLD_MySQL](https://github.com/mcmnyages/WORLD_MySQL)
 > **Database Schema Design & Learning Resource**
 
-A comprehensive MySQL project featuring well-structured schemas and example datasets designed for teaching relational database concepts, query optimization, and data modeling best practices.
+Fetching and working with the sample MySQL "world" database — schema exploration, querying, and data modeling practice.
 
-`MySQL` `Database Design` `SQL Optimization`
-
----
-
-### 📱 [Android Studio Projects](https://github.com/mcmnyages/Android_Studio_Projects)
-> **Secure Mobile Applications**
-
-Collection of Android applications emphasizing secure authentication patterns, encrypted data storage, and user-friendly interfaces. Each project demonstrates real-world mobile development with security at the forefront.
-
-`Java` `Kotlin` `Android SDK` `SQLite`
+`MySQL` `Database Design` `SQL`
 
 ---
 
-### ⚛️ React & React Native Applications
-> **Modern Web & Mobile Solutions**
+### 📱 [Android_Studio_Projects](https://github.com/mcmnyages/Android_Studio_Projects)
+> **Android Applications**
 
-Full-stack web applications and cross-platform mobile apps built with the React ecosystem. Focus on clean architecture, secure API integration, state management, and responsive design.
+A collection of Android Studio projects exploring mobile app development on the Android SDK.
 
-`React` `React Native` `Expo` `REST APIs` `JWT Authentication`
+`Java` `Android SDK` `SQLite`
 
 ---
 
-### 📚 [CIT-415 Year 4 Projects](https://github.com/mcmnyages/CIT-415-Year-4)
+### 📚 [CIT-415-Year-4](https://github.com/mcmnyages/CIT-415-Year-4)
 > **Academic & Capstone Work**
 
-Final year university projects covering algorithms, system design, network security, and practical IT solutions. Includes documentation, implementation, and testing strategies.
+Final-year university projects covering algorithms, system design, and practical IT solutions.
 
-`Python` `Java` `Web Technologies`
+`PHP` `Web Technologies`
+
+---
+
+### 🎓 [fullstackopen](https://github.com/mcmnyages/fullstackopen)
+> **Full Stack Open Coursework**
+
+Coursework showcasing React, Node.js, REST APIs, databases, testing, and deployment.
+
+`JavaScript` `React` `Node.js`
 
 ---
 
@@ -209,6 +258,11 @@ Code Security:
   - Industry-standard cryptography with proper key management
   - No credentials or API keys committed to version control
 
+Data & AI Quality:
+  - Careful, consistent annotation standards for model training data
+  - Evidence-grounded, citation-precise benchmark and evaluation work
+  - No AI-authored content where human authorship is required
+
 Development Process:
   - Security-focused peer code reviews
   - Regular dependency scanning and updates
@@ -229,22 +283,11 @@ If you discover a vulnerability in any of my projects:
 
 ## 🌱 What I'm Currently Learning
 
+- 🤖 AI agent frameworks (Google ADK, Vertex AI, Genkit/RAG)
 - ☁️ Cloud Security (AWS, Azure)
 - 🔍 Advanced Threat Hunting
 - 🏗️ Secure Software Development Lifecycle (SSDLC)
 - 📜 Security Certifications: CEH, OSCP
-- 🦀 Rust for systems programming
-
----
-
-## 📈 2025 Goals
-
-- [ ] Contribute to 10+ open-source security projects
-- [ ] Obtain first professional security certification
-- [ ] Build and deploy 3 production-ready secure applications
-- [ ] Rank in top 100 in a major CTF competition
-- [ ] Write 20+ technical blog posts on security topics
-- [ ] Mentor 5+ junior developers in secure coding practices
 
 ---
 
@@ -282,7 +325,7 @@ git push origin feature/amazing-feature
 
 ### 🤝 Open To
 
-💼 Full-time roles in cybersecurity or software engineering &nbsp;·&nbsp; 🎯 Freelance security-focused projects &nbsp;·&nbsp; 👥 Mentorship &nbsp;·&nbsp; 🚀 Open-source collaboration &nbsp;·&nbsp; 🎤 Speaking at tech events
+💼 Full-time roles in AI/software engineering or cybersecurity &nbsp;·&nbsp; 🎯 Freelance security & AI-data projects &nbsp;·&nbsp; 👥 Mentorship &nbsp;·&nbsp; 🚀 Open-source collaboration &nbsp;·&nbsp; 🎤 Speaking at tech events
 
 </div>
 
@@ -292,12 +335,12 @@ git push origin feature/amazing-feature
 
 > *"Security is not a product, but a process."* — **Bruce Schneier**
 
-**Built with 💻 Security · ☕ Coffee · 🔥 Passion**
+**Built with 💻 Security · 🤖 AI · ☕ Coffee · 🔥 Passion**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mcmnyages&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
 ---
 
-**© 2025 Silas Moracha | McMnyages** &nbsp;·&nbsp; *Crafting secure software, one commit at a time* 🚀
+**© 2026 Silas Moracha | McMnyages** &nbsp;·&nbsp; *Crafting secure software and better AI training data, one commit at a time* 🚀
 
 </div>
